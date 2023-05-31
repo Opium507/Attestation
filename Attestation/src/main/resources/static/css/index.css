@@ -1,0 +1,44 @@
+body{
+    background-color: antiquewhite;
+}
+form {
+    align-content: center;
+    border: thick double #32a1ce;
+}
+
+a {
+    background-color: red;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover {
+    background-color: #555;
+}
+
+a:active {
+    background-color: black;
+}
+
+a:visited {
+    background-color: #ccc;
+}
+
+.ui-button {
+    background-color: red;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.ui-button:hover {
+    background-color: #555;
+}
+.ui-button:active {
+    background-color: black;
+}
+.ui-button:visited {
+    background-color: #ccc;
+}
